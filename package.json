@@ -1,0 +1,25 @@
+{
+  "name": "poc-graphql",
+  "version": "1.0.0",
+  "description": "POC graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ostro/POCGraphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ostro/POCGraphQL/issues"
+  },
+  "homepage": "https://github.com/Ostro/POCGraphQL#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-graphql": "^0.5.1",
+    "graphql": "^0.5.0"
+  }
+}
